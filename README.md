@@ -21,7 +21,7 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 
 🤔 I’m also currently in search of a data analystics job opportunity, could you kindly connect me where possible.
 
-📫 How to reach me: LinkedIn, Instagram.
+📫 How to reach me: mutheulauramutua@gmail.com
 
 ⚡ Fun fact: I love adventure filled activities such as: sky cycling,high rope challenges and indoor rock climbing.On the geeky side,I love immersing myself into  reading African literature books.I find them so relaxing,lol.
 
