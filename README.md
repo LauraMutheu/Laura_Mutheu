@@ -15,13 +15,13 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 4. Tableau.
 5. Power BI.
 
+✴️ I’m am currently working on building my data analytics portfolio.
+
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
 👯 I’m looking to collaborate with other data professionals to work on real world projects and exchange knowledge on data-related technological advancements.
 
-🤔 I’m also currently in search of a data analystics job opportunity, could you kindly connect me where possible.
-
 📫 How to reach me: mutheulauramutua@gmail.com
 
-⚡ Fun fact: I love adventure filled activities such as: sky cycling,high rope challenges and indoor rock climbing.On the geeky side,I love immersing myself into  reading African literature books.I find them so relaxing,lol.
+⚡ Fun fact: I love adventure filled activities such as: sky cycling,high rope challenges and indoor rock climbing.On the geeky side,I love immersing myself into  reading literature books.I find them so relaxing:)
 
