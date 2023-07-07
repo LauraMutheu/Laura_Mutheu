@@ -16,7 +16,7 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 5. Tableau.
 6. Power BI.
 
-✴️ I’m am currently working on building my data analytics portfolio and upsacling to data science.
+✴️ I’m am currently working on building my data analytics portfolio and upscaling to data science.
 
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
