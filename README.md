@@ -12,9 +12,8 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 1. Microsoft Excel.
 2. Structured Query Language(SQL).
 3. Python.
-4. R programming language.
-5. Tableau.
-6. Power BI.
+4. Tableau.
+65. Power BI.
 
 ✴️ I’m am currently working on building my data analytics portfolio and upscaling to data science.
 
