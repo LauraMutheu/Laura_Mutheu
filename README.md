@@ -5,7 +5,7 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 
 # **Interesting Facts about me:**
 
-🔭 I extract data sets from diffrent data sources,clean and transform them then analyze and visualize the  data sets to find insights answering to defined business problems.
+🔭 I extract data sets from diffrent data sources,clean and transform them then analyze and visualize the  data sets in a bid to find insights answering to defined business problems.
 
 💻 Tools I use for Data Analysis include:
 
@@ -13,9 +13,9 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 2. Structured Query Language(SQL).
 3. Python.
 4. Tableau.
-65. Power BI.
+5. Power BI.
 
-✴️ I’m am currently working on building my data analytics portfolio and upscaling to data science.
+✴️ I am currently in pursuit of a data analyst role, in addittion, I'm upscaling into data science through 'The Moringa Datascience Bootcamp'.
 
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
