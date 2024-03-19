@@ -1,5 +1,5 @@
-# MutheuTheAnalyst
-Hi there 👋 My name is Laura mutheu alias MutheuTheAnalyst.
+# Laura Mutheu
+Hi there 👋 My name is Laura Mutheu.
 
 I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver.
 
@@ -15,7 +15,7 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 4. Tableau.
 5. Power BI.
 
-✴️ I am currently in pursuit of a data analyst role, in addittion, I'm upscaling into data science through 'The Moringa Datascience Bootcamp'.
+✴️ I am currently a data analyst at ADEC Innovattions Kenya, in addittion, I'm upscaling into data science through 'The Moringa Datascience Bootcamp'.
 
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
