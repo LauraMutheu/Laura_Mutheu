@@ -15,7 +15,7 @@ I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and P
 4. Tableau.
 5. Power BI.
 
-✴️ I am currently a data analyst at ADEC Innovattions Kenya, in addittion, I'm upscaling into data science through 'The Moringa Datascience Bootcamp'.
+✴️ I am currently a Data Analyst at ADEC Innovattions Kenya, in addittion, I'm upscaling into data science through 'The Moringa Datascience Bootcamp'.
 
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
