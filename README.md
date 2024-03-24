@@ -1,7 +1,7 @@
 # Laura Mutheu
 Hi there 👋 My name is Laura Mutheu.
 
-I am a Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver.
+I am a Data Scientist, Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver.
 
 # **Interesting Facts about me:**
 
