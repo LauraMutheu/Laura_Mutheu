@@ -16,6 +16,7 @@ I am a highly-motivated and goal-oriented Data Scientist, Statistics and Compute
 4. Re-inforcement Learning.
 5. Natural Language Processing.
 6. Deep Learning.
+7. Time series Analysis.
    
 💻 Tools I use for Data Analysis include:
 
