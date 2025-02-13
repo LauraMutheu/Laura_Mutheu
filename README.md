@@ -1,12 +1,20 @@
 # Laura Mutheu
 Hi there 👋 My name is Laura Mutheu.
 
-I am a highly-motivated and goal-oriented Data Scientist, Statistics and Computer Programming Graduate, Scholar and Problem Solver; proficiently skilled in developing and implementing machine learning algorithms that significantly impact business revenues and user experience.
+I am a highly-motivated and goal-oriented Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver; proficiently skilled in developing and implementing machine learning algorithms that significantly impact business revenues and user experience.
 
 
 # **Interesting Facts about me:** 
 
 🔭 With over 2+ years of proven experience in the data analytics field, my expertise spans the entire lifecycle of machine learning algorithm development and implementation. I adeptly gather and preprocess data from diverse sources, ensuring its cleanliness and suitability for modeling. I then apply advanced techniques to build and fine-tune machine learning models, rigorously testing their performance and iterating as needed. My focus is on delivering solutions that effectively address specific business problems through insightful data-driven decisions.
+
+💻 Tools I use for Data Analysis include:
+
+1. Microsoft Excel.
+2. Structured Query Language(SQL).
+3. Python.
+4. Tableau.
+5. Power BI.
 
 💻 Data Science Techniques I implement include:
 
@@ -18,17 +26,10 @@ I am a highly-motivated and goal-oriented Data Scientist, Statistics and Compute
 6. Deep Learning.
 7. Time series Analysis.
    
-💻 Tools I use for Data Analysis include:
 
-1. Microsoft Excel.
-2. Structured Query Language(SQL).
-3. Python.
-4. Tableau.
-5. Power BI.
+✴️ I am open to Data science and Data Analysis roles.
 
-✴️ I am open to Data science roles, in addittion,I am currently a Data Analyst at ADEC Innovations Kenya.
-
-🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data scientist.
+🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
 
 👯 I’m looking to collaborate with other data professionals to work on real world projects and exchange knowledge on data-related technological advancements.
 
