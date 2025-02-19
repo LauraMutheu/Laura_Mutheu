@@ -1,7 +1,7 @@
 # Laura Mutheu
 Hi there 👋 My name is Laura Mutheu.
 
-I am a highly-motivated and goal-oriented Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver; proficiently skilled in developing and implementing machine learning algorithms that significantly impact business revenues and user experience.
+I am a highly-motivated and goal-oriented Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver; proficiently skilled in Data Analytics and and implementing machine learning algorithms that significantly impact business revenues and user experience.
 
 
 # **Interesting Facts about me:** 
