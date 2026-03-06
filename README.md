@@ -1,32 +1,20 @@
 # Laura Mutheu
 Hi there 👋 My name is Laura Mutheu.
 
-I am a highly-motivated and goal-oriented Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver; proficiently skilled in Data Analytics and and implementing machine learning algorithms that significantly impact business revenues and user experience.
+I am a motivated and goal-oriented Data Analyst, Statistics and Computer Programming Graduate, Scholar and Problem Solver.
 
 
 # **Interesting Facts about me:** 
 
-🔭 With over 2+ years of proven experience in the data analytics field, my expertise spans the entire lifecycle of machine learning algorithm development and implementation. I adeptly gather and preprocess data from diverse sources, ensuring its cleanliness and suitability for modeling. I then apply advanced techniques to build and fine-tune machine learning models, rigorously testing their performance and iterating as needed. My focus is on delivering solutions that effectively address specific business problems through insightful data-driven decisions.
+🔭 With over 2+ years of experience in the data analytics field, I specialize in transforming raw data into meaningful insights that support data-driven decision-making. My work involves collecting, cleaning, and validating data from multiple sources to ensure accuracy and reliability for analysis.I enjoy working with structured data, improving data quality, and communicating analytical findings in a way that is accessible to both technical and non-technical audiences.
 
 💻 Tools I use for Data Analysis include:
 
 1. Microsoft Excel.
 2. Structured Query Language(SQL).
-3. Python.
-4. Tableau.
-5. Power BI.
-
-💻 Data Science Techniques I implement include:
-
-1. Supervised Learning.
-2. Unsupervised Learning.
-3. Semi-supervised Learning.
-4. Re-inforcement Learning.
-5. Natural Language Processing.
-6. Deep Learning.
-7. Time series Analysis.
+3. Tableau.
+4. Power BI.
    
-
 ✴️ I am open to Data science and Data Analysis roles.
 
 🌱 I love solving puzzles and I'm really great at thinking on my feet thus making me a solution and goal oriented data analyst.
